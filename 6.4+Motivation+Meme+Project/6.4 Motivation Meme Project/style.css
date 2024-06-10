@@ -1,0 +1,28 @@
+ body{
+        background-color: black;
+        color: white;
+      }
+      h1{
+        text-transform: uppercase;
+      }
+      #image{
+        font-family: "Libre Baskerville", serif;
+        font-weight: 400;
+        font-style: normal;
+        width: 35%;
+        margin-left: 35%;
+        text-align: center;
+        
+       
+        
+        
+      }
+      .prabhupada_img{
+        border:  5px solid white;
+        margin-top: 40px;
+        width: 80%;
+        
+       
+      }
+      
+    
